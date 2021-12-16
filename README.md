@@ -1,2 +1,2 @@
 # DLL-Injector
-Windows DLL injector which doesn't require admin rights
+Potřeboval jsem jednoduchý DLL injector pro svůj hack na Xonotic. Tak tady je
